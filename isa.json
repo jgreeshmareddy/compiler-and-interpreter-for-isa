@@ -1,0 +1,11 @@
+{
+    "INSTRUCTIONS": {
+        "LOAD":   {"format": "R,IMM"},
+        "STORE_W": {"format": "R,ADDR"},
+        "STORE_B": {"format": "R,ADDR"},
+        "MAC":    {"format": "RD,RS1,RS2"},
+        "ADD":    {"format": "RD,RS1,RS2"},
+        "SUB":    {"format": "RD,RS1,RS2"},
+        "HALT":   {"format": ""}
+    }
+}
